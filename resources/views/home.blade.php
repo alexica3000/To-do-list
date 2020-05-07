@@ -7,9 +7,7 @@
             <div class="card">
                 <div class="card-header">Dashboard</div>
                 <div class="card-body">
-
                     <app></app>
-
                 </div>
             </div>
         </div>
